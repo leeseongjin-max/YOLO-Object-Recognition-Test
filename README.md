@@ -3,7 +3,9 @@
 A simple experiment comparing YOLOv8n and YOLOv8x on a crowded object detection scenario.
 
 ---
+![YOLOv8x](comparison/ult.jpg
 
+> YOLOv8n detected three puppies as one object, while YOLOv8x successfully separated all three puppies.
 ## Background
 
 The test image contains three puppies positioned very close to each other.
